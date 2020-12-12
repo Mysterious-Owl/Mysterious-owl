@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mysterious-owl&show_icons=true&theme=buefy&count_private=true&hide=stars" alt="Mysterious Owl github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mysterious-owl&show_icons=true&theme=buefy&count_private=true" alt="Mysterious Owl github stats" />
 </a>
 
 <br />
