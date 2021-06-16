@@ -6,7 +6,8 @@
 
 - 👯 I’m looking to collaborate on anything that catches my eye
 - 🌱 I’m currently learning GUI
-- 🔭 I'm currently working on IoT and automizing things, like my online college attendance
+- 🔭 I'm currently working on IoT and automizing things, like my online college quizzes
+- 👾 I'm now trying to make a game
 
 <br/>
 
