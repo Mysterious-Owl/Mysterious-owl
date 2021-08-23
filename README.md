@@ -11,6 +11,8 @@
 
 <br/>
 
+- 🎉🎉 Added as a contributor on [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI/issues/142#issuecomment-894722347)
+- Read my [conversation with PySimpleGUI](https://github.com/Mysterious-Owl/color-identification/issues/2) and see if it gives you motivation 
 
 - ⚡ Fun fact:
   ```
